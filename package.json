@@ -1,6 +1,6 @@
 {
   "name": "sugar-assembler",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Assembler for SUGARJS.",
   "main": "./lib/index.js",
   "scripts": {
