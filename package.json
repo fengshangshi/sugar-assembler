@@ -1,0 +1,19 @@
+{
+  "name": "sugar-assembler",
+  "version": "0.0.1",
+  "description": "Assembler for SUGARJS.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "loader",
+    "sugarjs"
+  ],
+  "author": "fengshangshi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fengshangshi/sugar-assembler.git"
+  }
+}
